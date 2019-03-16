@@ -1,4 +1,0 @@
-﻿  Camera.cpp
-e:\my\c++\opengl\gl4\gl4\camera.h(56): warning C4305: “初始化”: 从“double”到“float”截断
-e:\my\c++\opengl\gl4\gl4\camera.h(57): warning C4305: “初始化”: 从“double”到“float”截断
-  gl4.vcxproj -> E:\My\c++\opengl\gl4\Debug\gl4.exe
