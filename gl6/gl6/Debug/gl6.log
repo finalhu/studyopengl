@@ -1,0 +1,11 @@
+﻿  main.cpp
+e:\my\c++\opengl\gl6\gl6\shader.h(23): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+e:\my\c++\opengl\gl6\gl6\camera.h(56): warning C4305: “初始化”: 从“double”到“float”截断
+e:\my\c++\opengl\gl6\gl6\camera.h(57): warning C4305: “初始化”: 从“double”到“float”截断
+e:\my\c++\opengl\gl6\gl6\main.cpp(210): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\my\c++\opengl\gl6\gl6\main.cpp(211): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\my\c++\opengl\gl6\gl6\main.cpp(215): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\my\c++\opengl\gl6\gl6\main.cpp(216): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\my\c++\opengl\gl6\gl6\main.cpp(218): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\my\c++\opengl\gl6\gl6\main.cpp(219): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  gl6.vcxproj -> E:\My\c++\opengl\gl6\Debug\gl6.exe

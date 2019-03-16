@@ -1,0 +1,28 @@
+﻿  main.cpp
+e:\my\c++\opengl\gl1\gl1\main.cpp(129): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\my\c++\opengl\gl1\gl1\main.cpp(130): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\my\c++\opengl\gl1\gl1\main.cpp(134): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\my\c++\opengl\gl1\gl1\main.cpp(135): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\my\c++\opengl\gl1\gl1\main.cpp(136): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\my\c++\opengl\gl1\gl1\main.cpp(137): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\my\c++\opengl\gl1\gl1\main.cpp(288): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+Shader.obj : warning LNK4049: 已导入本地定义的符号 ___glewAttachShader
+Shader.obj : warning LNK4049: 已导入本地定义的符号 ___glewCompileShader
+Shader.obj : warning LNK4049: 已导入本地定义的符号 ___glewCreateProgram
+Shader.obj : warning LNK4049: 已导入本地定义的符号 ___glewCreateShader
+Shader.obj : warning LNK4049: 已导入本地定义的符号 ___glewDeleteShader
+Shader.obj : warning LNK4049: 已导入本地定义的符号 ___glewGetProgramInfoLog
+Shader.obj : warning LNK4049: 已导入本地定义的符号 ___glewGetProgramiv
+Shader.obj : warning LNK4049: 已导入本地定义的符号 ___glewGetShaderInfoLog
+Shader.obj : warning LNK4049: 已导入本地定义的符号 ___glewGetShaderiv
+Shader.obj : warning LNK4049: 已导入本地定义的符号 ___glewGetUniformLocation
+Shader.obj : warning LNK4049: 已导入本地定义的符号 ___glewLinkProgram
+Shader.obj : warning LNK4049: 已导入本地定义的符号 ___glewShaderSource
+Shader.obj : warning LNK4049: 已导入本地定义的符号 ___glewUniform1f
+Shader.obj : warning LNK4049: 已导入本地定义的符号 ___glewUniform1i
+Shader.obj : warning LNK4049: 已导入本地定义的符号 ___glewUniform4f
+Shader.obj : warning LNK4049: 已导入本地定义的符号 ___glewUseProgram
+glew32s.lib(glew.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“glew32s.lib(glew.obj)”或在“E:\My\c++\opengl\gl1\Debug\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  gl1.vcxproj -> E:\My\c++\opengl\gl1\Debug\gl1.exe

@@ -1,0 +1,13 @@
+﻿  Vertexes.cpp
+  main.cpp
+e:\my\c++\opengl\gl2\gl2\shader.h(23): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+e:\my\c++\opengl\gl2\gl2\camera.h(45): warning C4305: “初始化”: 从“double”到“float”截断
+e:\my\c++\opengl\gl2\gl2\camera.h(46): warning C4305: “初始化”: 从“double”到“float”截断
+e:\my\c++\opengl\gl2\gl2\main.cpp(228): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\my\c++\opengl\gl2\gl2\main.cpp(229): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\my\c++\opengl\gl2\gl2\main.cpp(233): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\my\c++\opengl\gl2\gl2\main.cpp(234): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\my\c++\opengl\gl2\gl2\main.cpp(236): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\my\c++\opengl\gl2\gl2\main.cpp(237): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+  gl2.vcxproj -> E:\My\c++\opengl\gl2\Debug\gl2.exe
