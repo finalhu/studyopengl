@@ -36,7 +36,12 @@ public:
 	Mesh(std::vector<Vertex> vertices, std::vector<unsigned int> indices, std::vector<Texture> textures);
 	~Mesh();
 	void draw(Shader shader);
-
+	inline unsigned int VAO() { return vao_; }
+	inline unsigned int VBO() { return vbo_; }
+	inline unsigned int EBO() { return ebo_; }
+	inline std::vector<Vertex>& vertices() { return vertices_; }
+	inline std::vector<unsigned int>& indices() { return indices_; }
+	inline std::vector<Texture>& texture() { return textures_; }
 private:
 	void setupMesh();
 

@@ -42,7 +42,7 @@ void Mesh::draw(Shader shader)
 			number = std::to_string(heightNr++);
 		}
 
-		glUniform1i(glGetUniformLocation(shader.getID(), (type + number).c_str()), i);
+		shader.setInt((type + number).c_str(), i);
 		glBindTexture(GL_TEXTURE_2D, textures_[i].id);
 	}
 

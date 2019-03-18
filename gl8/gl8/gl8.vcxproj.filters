@@ -49,10 +49,16 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="instancing.vert">
+    <None Include="asteroids.vert">
       <Filter>资源文件</Filter>
     </None>
-    <None Include="instancing.frag">
+    <None Include="asteroids.frag">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="planet.frag">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="planet.vert">
       <Filter>资源文件</Filter>
     </None>
   </ItemGroup>

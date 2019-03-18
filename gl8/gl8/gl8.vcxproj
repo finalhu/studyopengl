@@ -134,8 +134,10 @@
     <ClInclude Include="stb_image.h" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="instancing.frag" />
-    <None Include="instancing.vert" />
+    <None Include="asteroids.frag" />
+    <None Include="asteroids.vert" />
+    <None Include="planet.frag" />
+    <None Include="planet.vert" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

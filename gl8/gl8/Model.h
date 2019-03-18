@@ -17,8 +17,10 @@ class Model
 public:
 	Model(const std::string path, bool gamma = false);
 	~Model();
-	
+
 	void draw(Shader shader);
+	inline std::vector<Mesh>& meshes() { return meshes_; }
+	inline std::vector<Texture>& textures_loaded() { return textures_loaded_; }
 
 private:
 	void loadModel(std::string const &path);
